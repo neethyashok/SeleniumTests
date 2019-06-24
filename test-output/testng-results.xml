@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="237" started-at="2018-12-12T19:27:48Z" finished-at="2018-12-12T19:27:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="237" started-at="2018-12-12T19:27:48Z" finished-at="2018-12-12T19:27:49Z">
+      <class name="CucumberTest.anothertest">
+        <test-method status="PASS" signature="funtionname5()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname5" is-config="true" duration-ms="78" started-at="2018-12-12T19:27:48Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname5 -->
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="beforeclass" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeclass -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="beforemethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="funtionname1()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname1" duration-ms="21" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname1 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="beforemethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="funtionname2()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname2" duration-ms="5" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname2 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="beforemethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="funtionname4(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname4" duration-ms="4" started-at="2018-12-12T19:27:49Z" data-provider="getData" finished-at="2018-12-12T19:27:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname4 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="beforemethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="beforemethod" is-config="true" duration-ms="4" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforemethod -->
+        <test-method status="PASS" signature="funtionname4(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname4" duration-ms="4" started-at="2018-12-12T19:27:49Z" data-provider="getData" finished-at="2018-12-12T19:27:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname4 -->
+        <test-method status="PASS" signature="aftermethod()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="aftermethod" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftermethod -->
+        <test-method status="PASS" signature="funtionname3()[pri:0, instance:CucumberTest.anothertest@757942a1]" name="funtionname3" is-config="true" duration-ms="1" started-at="2018-12-12T19:27:49Z" finished-at="2018-12-12T19:27:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname3 -->
+      </class> <!-- CucumberTest.anothertest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

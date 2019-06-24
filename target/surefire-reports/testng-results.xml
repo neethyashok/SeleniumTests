@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="45" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="45" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+      <class name="CucumberTest.testngtes">
+        <test-method status="PASS" signature="dologin()[pri:0, instance:CucumberTest.testngtes@23faf8f2]" name="dologin" duration-ms="2" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dologin -->
+      </class> <!-- CucumberTest.testngtes -->
+      <class name="CucumberTest.anothertest">
+        <test-method status="PASS" signature="funtionname5()[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname5" is-config="true" duration-ms="17" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname5 -->
+        <test-method status="PASS" signature="funtionname1()[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname1" duration-ms="0" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname1 -->
+        <test-method status="PASS" signature="funtionname2()[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname2" duration-ms="0" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname2 -->
+        <test-method status="PASS" signature="funtionname4(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname4" duration-ms="1" started-at="2018-12-12T19:13:53Z" data-provider="getData" finished-at="2018-12-12T19:13:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass1]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Name1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname4 -->
+        <test-method status="PASS" signature="funtionname4(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname4" duration-ms="0" started-at="2018-12-12T19:13:53Z" data-provider="getData" finished-at="2018-12-12T19:13:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[User2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Pass2]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Name2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname4 -->
+        <test-method status="PASS" signature="funtionname3()[pri:0, instance:CucumberTest.anothertest@d44fc21]" name="funtionname3" is-config="true" duration-ms="0" started-at="2018-12-12T19:13:53Z" finished-at="2018-12-12T19:13:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- funtionname3 -->
+      </class> <!-- CucumberTest.anothertest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
